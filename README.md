@@ -1,4 +1,4 @@
-# Clone-TabNews
+# Curso.dev
 
 <img src="/img/image.PNG">
 
@@ -14,4 +14,3 @@ _TabNews_ é uma plataforma em formato de fóruns criada para a comunidade de Te
 
 > Curso imperdível, conteúdo de qualidade e didática excelente. O carinho com o conteudo e com os alunos é enorme. Não perca a oportunidade de aprender e aprimorar seus conhecimentos em desenvolvimento com o https://curso.dev. Confira por conta própria e veja a diferença!
 
-@filipedeschamps
